@@ -9,4 +9,4 @@ A shell script to install JACC (just another compiler compiler) on Linux
 chmod +x installer.sh
 ./installer
 ```
-** NOTE ** : You need an internet connection.
+**NOTE** : You need an internet connection.
